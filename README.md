@@ -7,4 +7,4 @@ to pratice coding.
 
 learned alot i have some experience in #C but
 couldn't focus a lot of time into it. These videos
-are helping me make time to code ajd challenge myself.
+are helping me make time to code and challenge myself.
